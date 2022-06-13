@@ -31,6 +31,19 @@ ul li {
     margin-top: 20px;
 }
 
+table .row-color {
+    background-color: #B1E5F2;
+}
+
+table thead {
+    background-color: #20A9E5;
+    color: white;
+}
+
+tbody td {
+    padding: 10px 0;
+}
+
 .margin-top {
     margin-top: 20px;
 }

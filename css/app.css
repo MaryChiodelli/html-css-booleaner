@@ -14,3 +14,11 @@
 #main-header img {
     width: 300px;
 }
+
+.article {
+    padding: 20px 10px;
+}
+
+.article-images {
+    margin-top: 20px;
+}
